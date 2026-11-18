@@ -1,0 +1,6 @@
+{
+  "name": "Maison Haven",
+  "description": "Maison Haven is an upcoming luxury boutique hotel in Maitama, Abuja, Nigeria. Where Luxury Finds Its Serenity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
